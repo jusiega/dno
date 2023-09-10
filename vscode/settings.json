@@ -1,0 +1,7 @@
+{
+    "dotnet.defaultSolution": "build/plugin1.sln",
+    "files.associations": {
+        "cmath": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "enabled"
+}
